@@ -1,5 +1,4 @@
 1 · Header & intro
-# Paste this at the top of your README.md
 
 <h1 align="center">Hey, I'm Jayant Agarwal 👾</h1>
 <h4 align="center">
