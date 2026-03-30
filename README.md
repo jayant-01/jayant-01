@@ -1,5 +1,3 @@
-1 · Header & intro
-
 <h1 align="center">Hey, I'm Jayant Agarwal 👾</h1>
 <h4 align="center">
   Android Dev · Python · Cybersecurity · OSINT · Pentester
@@ -19,7 +17,7 @@
     <img src="https://img.shields.io/badge/Discord-darkknight5948-5865F2?style=flat&logo=discord"/>
   </a>
 </p>
-2 · About me section (add this — it's currently missing!)
+
 ## 🧠 About me
 
 - 🔐 Passionate about **cybersecurity**, ethical hacking, and OSINT research
@@ -27,7 +25,7 @@
 - 🧪 CTF player | Penetration tester | Always learning
 - 📫 Reach me at **01agarwal.jayant@gmail.com**
 - 💬 Ask me about: `Android`, `Python`, `Pentesting`, `OSINT`
-3 · Grouped tech stack (replaces the icon wall)
+
 ## 🛠️ Tech stack
 
 **Languages**
@@ -53,7 +51,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-4 · GitHub stats (keep these — just reorder them)
+
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -66,7 +65,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-01
        &theme=tokyonight&hide_border=true"/>
 </p>
-5 · Optional — add a "currently" strip for freshness
+
 ## ⚡ Currently
 
 - 🔭 Working on: [your current project]
