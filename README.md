@@ -68,14 +68,6 @@
 
 ## ⚡ Currently
 
-- 🔭 Working on: [your current project]
-- 🌱 Learning: **[what you're exploring now]**
+- 🔭 Working on: [A complete Saas Dashboard]
+- 🌱 Learning: **[django,flask,aws,go,rust]**
 - 🏆 Latest CTF: [name + rank if you want]
-
-what changed & why
-+ About section visitors need context before they see stats
-+ Grouped badges flat icon wall → scannable categories
-+ Styled shields colored badges are more readable than plain icons
-+ Profile links email/LinkedIn/LeetCode as clickable badges up top
-~ Stats theme tokyonight unifies the 3 stat cards visually
-Copy failed — try from claude.ai in browser
