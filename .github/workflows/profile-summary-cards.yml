@@ -2,7 +2,7 @@ name: Profile summary cards
 
 on:
   schedule:
-    - cron: "0 6 * * *" # daily
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,6 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
